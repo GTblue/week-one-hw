@@ -4,6 +4,6 @@ Code from the original has been reformated to consecutively flow in HTML compare
 
 Images have alt attributes.
 
-It is hosted on Github Pages.
+Hosted on Github Pages.
 
 
